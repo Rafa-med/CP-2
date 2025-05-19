@@ -57,7 +57,7 @@ void fatoriais() {
     }
 }
  
-// Função para verificar se uma palavra é palíndromo feita pelo Felipe Paula Burba Molonhoni, RM: 564395
+// Função para verificar se uma palavra é palíndromo feito por: Felipe Paula Burba Molonhoni, RM: 564395
 void palindromo() {
     char palavra[101];
     printf("Digite uma palavra (sem espaços, até 100 caracteres): ");
