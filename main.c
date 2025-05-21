@@ -35,7 +35,7 @@ void fibonacci() {
     printf("\n");
 }
  
-// Função para calcular e mostrar fatoriais feita pelo Taysir Fauzi Ali, RM: 564884
+// Função para calcular e mostrar fatoriais feita Por: Taysir Fauzi Ali, RM: 564884
 void fatoriais() {
     int n;
     printf("Digite um número inteiro (1 a 20): ");
